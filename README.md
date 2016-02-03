@@ -7,7 +7,6 @@ at info@newpalmyra.org and let's build New Palmyra together!.
 * Convert the Robert Wood book from bitmap images to vector images: https://github.com/newpalmyra/robert-wood-ruins-of-palmyra-book
 * Improve Temple of Bel: https://github.com/newpalmyra/temple-of-bel
 * Improve Arch of Triumph: https://github.com/newpalmyra/arch-of-triumph
- * 
 * Print and make creative project with: https://github.com/newpalmyra/print-sprint-model
 * Develop Master Plan for Palmyra/
  * https://github.com/newpalmyra/newpalmyra.org/issues/61
