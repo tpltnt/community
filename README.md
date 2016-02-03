@@ -30,6 +30,7 @@ at info@newpalmyra.org and let's build New Palmyra together!.
 * Improve and/or track Sparkeshare Git LFS dev: https://github.com/hbons/SparkleShare/issues/385
 * Get a sparkleshare setup working with New Palmyra, document, make a release about it
   * announce with github, sparkleshare, some art orgs
+  * consider using google drive as art backend, then auto commit each hour or something to a shared server
 
 ## Website Challenges
 
