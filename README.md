@@ -26,6 +26,10 @@ at info@newpalmyra.org and let's build New Palmyra together!.
 * Develop photogrammetry software, to take photos of palmyra and make 3d models
 * Develop software to convert our models to open format for use on web
 * Add upload box to main website, drag and drop photos, pipe into photogrammetry software.
+* Run standalone Git LFS for our large art assets.
+* Improve and/or track Sparkeshare Git LFS dev: https://github.com/hbons/SparkleShare/issues/385
+* Get a sparkleshare setup working with New Palmyra, document, make a release about it
+  * announce with github, sparkleshare, some art orgs
 
 ## Website Challenges
 
