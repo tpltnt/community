@@ -26,11 +26,15 @@ at info@newpalmyra.org and let's build New Palmyra together!.
 * Develop photogrammetry software, to take photos of palmyra and make 3d models
 * Develop software to convert our models to open format for use on web
 * Add upload box to main website, drag and drop photos, pipe into photogrammetry software.
-* Run standalone Git LFS for our large art assets.
+* Run standalone Git LFS for our large art assets (implementations: https://github.com/github/git-lfs/wiki/Implementations)
+ * Test & CONSIDER
+  * https://github.com/kzwang/node-git-lfs
+  * https://github.com/cloudmazing/lfs-server-go
+  * https://hub.docker.com/r/l3iggs/lfs-test-server/
 * Improve and/or track Sparkeshare Git LFS dev: https://github.com/hbons/SparkleShare/issues/385
 * Get a sparkleshare setup working with New Palmyra, document, make a release about it
-  * announce with github, sparkleshare, some art orgs
-  * consider using google drive as art backend, then auto commit each hour or something to a shared server
+ * announce with github, sparkleshare, some art orgs
+ * consider using google drive as art backend, then auto commit each hour or something to a shared server
 
 ## Website Challenges
 
